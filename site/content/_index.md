@@ -2,10 +2,17 @@
 title: セカイにコドモゴゴロを
 subtitle: 今までにない楽しみを生み出し、人々に「新しい体験」を提供する
 image: /img/main-image.png
-news:
+message:
   text: |-
     「平成30年7月豪雨」により被災された皆様に、心よりお見舞い申し上げます。
     一日も早い復旧をお祈り申し上げます。
+about:
+  heading: UUUMは
+  text: |-
+    YouTube上でのインフルエンサーマーケティングをリードする、
+    動画ビジネス業界初のYouTuberプラットフォーマーです。
+    圧倒的なリーチ力と求心力を持つYouTuberの感性を活かした
+    クリエイティブなプロモーションプランをご提供致します。
 blurb:
   heading: Why Kaldi?
   text: >-
