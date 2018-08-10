@@ -2,6 +2,10 @@
 title: セカイにコドモゴゴロを
 subtitle: 今までにない楽しみを生み出し、人々に「新しい体験」を提供する
 image: /img/main-image.png
+news:
+  text: |-
+    「平成30年7月豪雨」により被災された皆様に、心よりお見舞い申し上げます。
+    一日も早い復旧をお祈り申し上げます。
 blurb:
   heading: Why Kaldi?
   text: >-
